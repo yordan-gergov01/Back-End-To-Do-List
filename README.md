@@ -27,7 +27,7 @@ This project is a simple To-Do List application built using NodeJS, Express, EJS
 ## Installation and Setup
 
 1. Clone the repository
-   git clone https://github.com/yordan-gergov01/todo-list.git
+   git clone https://github.com/yordan-gergov01/Back-End-To-Do-List
 
 2. Navigate to the project directory:
 
